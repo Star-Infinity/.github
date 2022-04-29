@@ -7,7 +7,6 @@
 
 ## Foreword
 Welcome to our team's github website<br>
-This github include star-infinity code<br>
-Maybe have the website????
+This github include star-infinity(a discord bot) code<br>
 ## Our work
 ### Star-Infinity
